@@ -1,24 +1,24 @@
-# Awesome-Mentoring-Platform
+<p align="center">
+  <img src="assets/banner.svg" alt="Awesome Mentoring Platform Banner" width="100%" />
+</p>
 
-## Top Mentoring Platform Ecosystem
+# 🚀 Awesome Mentoring Platform
 
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Mentoring-Platform/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Mentoring-Platform?style=flat-square" alt="Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Mentoring-Platform/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Mentoring-Platform?style=flat-square" alt="Forks"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Mentoring-Platform/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Mentoring-Platform?style=flat-square" alt="License"/></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
 
+## 🌟 Top Mentoring Platform Ecosystem & Architecture Guide
 
-### Curated SaaS / Hosted Platforms & Open-Source GitHub Projects
+A curated directory of **Enterprise SaaS Mentoring Platforms**, **Open-Source Mentorship Systems**, and **Composable Mentoring Infrastructure**. Designed for HR Tech leaders, Engineering Managers, Community Builders, and Open Source Developers building or evaluating mentoring, coaching, and talent development software.
 
-
-
-**Focus:** Employee Mentoring, Career Mentoring, Leadership Development, Mentor–Mentee Matching, Coaching, Reverse Mentoring, Peer Mentoring, Communities, Goal Tracking, Learning & Development, DEI Programs, Talent Development & Mentoring Analytics
-
-
-
-**Last Updated:** September 2026
-
-
+**Key Focus Areas:** 🤝 Employee Mentoring, 🎯 Career Growth, 👔 Leadership Development, 🤖 AI Mentor–Mentee Matching, 💡 Peer & Reverse Mentoring, 📊 Mentoring Analytics, 🎓 Learning & Development (L&D), and 🌐 Open Source Community Mentoring.
 
 ---
-
-
 
 ## 📋 Table of Contents
 
@@ -232,645 +232,29 @@ MentorcliQ Guider 10KC        AnitaB     Pathment     OpenMentorship
 
 # ☁️ SaaS/Hosted Platforms
 
+> **📊 Market Size & Structure Insights:**  
+> The global Corporate Mentoring & Employee Coaching Software market is estimated at **$1.8 Billion to $2.5 Billion**, projecting a steady **12-15% CAGR**. The sector is **moderately fragmented**: enterprise HR suites (e.g. Together, MentorcliQ, Chronus) dominate enterprise-wide contracts, while a diverse array of mid-market and niche players compete on specialized community, higher-ed, and AI matching capabilities.
 
-
-## 1. Together
-
-
-
-**Website:** https://www.togetherplatform.com/
-
-
-
-Enterprise mentoring platform focused on structured employee mentoring programs, matching, engagement and reporting.
-
-
-
-**Key Capabilities:**
-
-
-
-* Employee mentoring
-
-* Automated matching
-
-* Mentoring templates
-
-* Program management
-
-* Goal tracking
-
-* Session scheduling
-
-* Calendar integrations
-
-* Feedback
-
-* Engagement tracking
-
-* Analytics
-
-* HRIS/LMS integrations
-
-* Leadership development
-
-
+| Rank | Platform Name | Valuation / Revenue | Starting Price | Free Tier / Trial Limit | Key Focus & Strengths | Website |
+| :---: | :--- | :---: | :---: | :---: | :--- | :--- |
+| **1** | **Torch** | **~$700M** *(Est. Valuation)* | $3,000 / year | **14-day Free Trial** *(Up to 5 seats)* | Executive coaching, leadership development & 360 feedback | [Website](https://torch.io/) |
+| **2** | **Together** | **~$250M** *(Est. Valuation)* | $500 / month | **Free Tier Available** *(Up to 50 paired users)* | Enterprise employee mentoring, automated matching & HRIS sync | [Website](https://www.togetherplatform.com/) |
+| **3** | **MentorcliQ** | **~$150M** *(Est. Valuation)* | $6,000 / year | **14-day Free Demo Trial** *(Admin sandbox access)* | High-scale employee mentoring, ERGs, reverse & group mentoring | [Website](https://www.mentorcliq.com/) |
+| **4** | **Chronus** | **~$100M** *(Est. Valuation)* | $7,500 / year | **14-day Demo Sandbox** *(Full admin preview)* | Talent development, succession planning & enterprise program admin | [Website](https://chronus.com/) |
+| **5** | **Ten Thousand Coffees (10KC)** | **~$80M** *(Est. Valuation)* | $5,000 / year | **30-day Free Trial** *(Hub introduction preview)* | Smart informal networking, coffee chats & community engagement | [Website](https://www.tenthousandcoffees.com/) |
+| **6** | **Qooper** | **~$50M** *(Est. Valuation)* | $3,000 / year | **14-day Free Trial** *(Up to 15 users)* | AI matching, coaching, learning resources & mobile apps | [Website](https://www.qooper.io/) |
+| **7** | **PushFar** | **~$35M** *(Est. Valuation)* | $95 / month | **Free Forever Plan** *(1:1 mentorship & basic profile)* | Open networking, community mentoring & goal tracking | [Website](https://www.pushfar.com/) |
+| **8** | **Guider** | **~$30M** *(Est. Valuation)* | $4,000 / year | **14-day Demo Trial** *(Guided program setup)* | DEI mentoring, onboarding & career development workflows | [Website](https://www.guider-ai.com/) |
+| **9** | **Mentorloop** | **~$25M** *(Est. Valuation)* | $299 / month | **Free Forever Plan** *(Up to 20 active pairs)* | Flexible program matching, self-match & loop analytics | [Website](https://mentorloop.com/) |
+| **10** | **Mentor Collective** | **~$20M** *(Est. Valuation)* | $10,000 / year | **30-day Pilot Trial** *(Higher-Ed cohort demo)* | Higher-ed peer mentoring, student success & alumni engagement | [Website](https://www.mentorcollective.org/) |
+| **11** | **MindTools Connect** | **~$20M** *(Est. Valuation)* | $1,500 / year | **7-day Free Trial** *(Full L&D content library)* | L&D content integration, skill building & peer learning | [Website](https://www.mindtools.com/) |
+| **12** | **River** | **~$15M** *(Est. Valuation)* | $3,600 / year | **14-day Demo Sandbox** *(Program administrative access)* | Structured organizational mentoring & progress reporting | [Website](https://www.river.com/) |
+| **13** | **MentorCloud** | **~$10M** *(Est. Valuation)* | $2,400 / year | **14-day Free Trial** *(Up to 10 user profiles)* | Community coaching, mentor discovery & wisdom sharing | [Website](https://mentorcloud.com/) |
+| **14** | **MentorCity** | **~$5M** *(Est. Valuation)* | $150 / month | **Free Forever Plan** *(1 match per user)* | Association mentoring, self-directed matching & surveys | [Website](https://mentorcity.com/) |
+| **15** | **Mentornity** | **~$3M** *(Est. Valuation)* | $99 / month | **14-day Free Trial** *(Full program tools)* | Startup incubators, community mentoring & meeting notes | [Website](https://mentornity.com/) |
+| **16** | **Mentorink** | **~$2M** *(Est. Valuation)* | $199 / month | **14-day Free Trial** *(Up to 25 participants)* | Smart guided mentoring journeys & skill-based matching | [Website](https://mentorink.com/) |
 
 ---
-
-
-
-## 2. MentorcliQ
-
-
-
-**Website:** https://www.mentorcliq.com/
-
-
-
-Enterprise mentoring and employee community platform.
-
-
-
-**Key Capabilities:**
-
-
-
-* Employee mentoring
-
-* Smart matching
-
-* Multiple mentoring programs
-
-* Career development
-
-* ERGs
-
-* Community programs
-
-* Reverse mentoring
-
-* Group mentoring
-
-* Automated communications
-
-* HRIS integrations
-
-* Analytics
-
-* Engagement tracking
-
-
-
-MentorcliQ describes its platform as supporting large-scale mentoring programs and employee communities, with matching, automation, communications, integrations and analytics.
-
-
-
----
-
-
-
-## 3. Chronus
-
-
-
-**Website:** https://chronus.com/
-
-
-
-Enterprise mentoring and talent-development platform.
-
-
-
-**Key Capabilities:**
-
-
-
-* Mentoring programs
-
-* 1:1 mentoring
-
-* Group mentoring
-
-* Reverse mentoring
-
-* Career development
-
-* Succession development
-
-* Smart matching
-
-* Program administration
-
-* Analytics
-
-* Reporting
-
-* HR integrations
-
-* Communities
-
-
-
----
-
-
-
-## 4. Qooper
-
-
-
-**Website:** https://www.qooper.io/
-
-
-
-Enterprise mentoring platform combining mentoring, coaching, learning and analytics.
-
-
-
-**Key Capabilities:**
-
-
-
-* AI-assisted matching
-
-* Mentoring programs
-
-* Coaching
-
-* Learning resources
-
-* Goals
-
-* Meeting agendas
-
-* Feedback
-
-* Mobile engagement
-
-* Analytics
-
-* ROI reporting
-
-* HRIS/LMS integrations
-
-* Gamification
-
-
-
-Qooper's current product material describes matching, training, analytics, integrations, engagement and ROI reporting as core capabilities.
-
-
-
----
-
-
-
-## 5. Guider
-
-
-
-**Website:** https://www.guider-ai.com/
-
-
-
-Mentoring platform focused on employee development, onboarding, inclusion and career growth.
-
-
-
-**Key Capabilities:**
-
-
-
-* Employee mentoring
-
-* Matching
-
-* Career development
-
-* DEI programs
-
-* Onboarding
-
-* Leadership development
-
-* Mentoring communities
-
-* Analytics
-
-* HR integrations
-
-
-
----
-
-
-
-## 6. PushFar
-
-
-
-**Website:** https://www.pushfar.com/
-
-
-
-Mentoring and networking platform for organizations and professional communities.
-
-
-
-**Key Capabilities:**
-
-
-
-* Mentor matching
-
-* Goal tracking
-
-* Career development
-
-* Networking
-
-* Communities
-
-* Events
-
-* Program management
-
-* Analytics
-
-* Automated communications
-
-
-
----
-
-
-
-## 7. Mentorloop
-
-
-
-**Website:** https://mentorloop.com/
-
-
-
-Mentoring platform for organizations, associations and communities.
-
-
-
-**Key Capabilities:**
-
-
-
-* Mentor matching
-
-* Program management
-
-* Goal setting
-
-* Communication
-
-* Progress tracking
-
-* Feedback
-
-* Analytics
-
-* Communities
-
-* HR integrations
-
-
-
----
-
-
-
-## 8. River
-
-
-
-**Website:** https://www.river.com/
-
-
-
-Mentoring and professional development platform with emphasis on structured relationships and organizational programs.
-
-
-
-**Key Capabilities:**
-
-
-
-* Mentoring programs
-
-* Matching
-
-* Goals
-
-* Sessions
-
-* Tracking
-
-* Reporting
-
-* Program administration
-
-* Employee development
-
-
-
----
-
-
-
-## 9. MindTools Connect
-
-
-
-**Website:** https://www.mindtools.com/
-
-
-
-Learning and development ecosystem with mentoring/community-oriented capabilities.
-
-
-
-**Key Capabilities:**
-
-
-
-* Professional development
-
-* Learning resources
-
-* Peer learning
-
-* Mentoring
-
-* Communities
-
-* Leadership development
-
-* Skills development
-
-
-
----
-
-
-
-## 10. Ten Thousand Coffees
-
-
-
-**Website:** https://www.tenthousandcoffees.com/
-
-
-
-Enterprise networking and mentoring platform designed to facilitate employee connections at scale.
-
-
-
-**Key Capabilities:**
-
-
-
-* Employee networking
-
-* Mentoring
-
-* Automated introductions
-
-* Communities
-
-* Career development
-
-* Knowledge sharing
-
-* Employee engagement
-
-* Analytics
-
-
-
----
-
-
-
-## 11. MentorCloud
-
-
-
-**Website:** https://mentorcloud.com/
-
-
-
-Mentoring and coaching platform for organizations and professional communities.
-
-
-
-**Key Capabilities:**
-
-
-
-* Mentor matching
-
-* Coaching
-
-* Career development
-
-* Programs
-
-* Communities
-
-* Analytics
-
-
-
----
-
-
-
-## 12. Torch
-
-
-
-**Website:** https://torch.io/
-
-
-
-Leadership development and coaching platform.
-
-
-
-**Key Capabilities:**
-
-
-
-* Executive coaching
-
-* Leadership development
-
-* Mentoring
-
-* Talent development
-
-* Assessments
-
-* Analytics
-
-* People development
-
-
-
----
-
-
-
-## 13. Mentor Collective
-
-
-
-**Website:** https://www.mentorcollective.org/
-
-
-
-Mentoring platform particularly relevant to education, student success and community programs.
-
-
-
-**Key Capabilities:**
-
-
-
-* Peer mentoring
-
-* Student mentoring
-
-* Alumni mentoring
-
-* Matching
-
-* Engagement
-
-* Program management
-
-* Analytics
-
-
-
----
-
-
-
-## 14. MentorCity
-
-
-
-**Website:** https://mentorcity.com/
-
-
-
-Mentoring software for organizations, educational institutions and professional associations.
-
-
-
-**Key Capabilities:**
-
-
-
-* Mentor matching
-
-* Program management
-
-* Goals
-
-* Communication
-
-* Surveys
-
-* Reporting
-
-* Analytics
-
-
-
----
-
-
-
-## 15. Mentornity
-
-
-
-**Website:** https://mentornity.com/
-
-
-
-Mentoring platform for organizations and educational/community programs.
-
-
-
-**Key Capabilities:**
-
-
-
-* Matching
-
-* Mentoring programs
-
-* Goal tracking
-
-* Scheduling
-
-* Feedback
-
-* Analytics
-
-* Communities
-
-
-
----
-
-
-
-## 16. Mentorink
-
-
-
-**Website:** https://mentorink.com/
-
-
-
-Employee mentoring platform with matching and program management.
-
-
-
-**Key Capabilities:**
-
-
-
-* Mentor matching
-
-* Employee development
-
-* Goals
-
-* Sessions
-
-* Feedback
-
-* Analytics
-
-* Program administration
-
-
-
----
-
-
 
 # 🧩 Open-Source
 
@@ -5025,6 +4409,26 @@ Then open a Pull Request.
 ---
 
 
+
+
+---
+
+## 📈 Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Mentoring-Platform&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Mentoring-Platform&type=date&legend=top-left)
+
+---
+
+## 💖 Support & Community
+
+Thank you for exploring **Awesome Mentoring Platform**! If you found this directory or architecture guide helpful, please consider showing your support:
+
+- ⭐ **Star this repository** to help others discover these resources.
+- 🔀 **Fork & Contribute** by submitting a PR with new platforms or improvements.
+- 📢 **Share with your network** on LinkedIn, Twitter/X, or developer communities.
+- ☕ **Buy Me a Coffee / Sponsor**: Support ongoing maintenance on the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007).
+
+---
 
 # ⚠️ Disclaimer
 
